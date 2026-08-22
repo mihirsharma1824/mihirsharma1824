@@ -34,9 +34,6 @@ Oil Spill Attribution
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
@@ -54,33 +51,7 @@ Oil Spill Attribution
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="25" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
+</div>
 <br />
 
 ----
