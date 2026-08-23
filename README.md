@@ -21,17 +21,6 @@ I am a data Analytics student with a strong foundation in Advanced Excel, SQL, P
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on Satellite + AIS Based 
-Oil Spill Attribution  
-  
-
-- 🌱 I’m currently learning Spatiotemporal Analytics  and 
-    Data Fusion: Bridging the gap between computer vision (satellite imagery) and physical hindcast modeling.  
-
-
 </td><td valign="top" width="50%">
 
 
