@@ -43,5 +43,3 @@ I am a data Analytics student with a strong foundation in Advanced Excel, SQL, P
 </div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
