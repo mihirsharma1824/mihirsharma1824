@@ -1,45 +1,31 @@
-## Hey 👋, I'm Mihir Sharma  
-  
 
-<a href="https://github.com/mihirsharma1824" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/mihirsharma24" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/mihirsharma24" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-  
+# Hey, I'm Mihir 👋
 
+### Data Science Undergraduate | AI/ML Enthusiast
 
+I enjoy building things, experimenting with technology, and solving real-world problems through code.
 
-### Glad to see you here!  
-I am a data Analytics student with a strong foundation in Advanced Excel, SQL, Python, and Power BI. Passionate about leveraging data to optimize business processes, track key performance indicators (KPIs), and evaluate financial health. Experienced through academic projects in translating complex operational data into clear, commercial insights, with a focus on helping cross-functional teams make profitable, evidence-based decisions.  
-  
+- 🎓 Data Science undergraduate at Dayananda Sagar University
+- 🔭 Exploring Machine Learning, AI and Research
+- 🌱 Currently learning Python, SQL and DSA
+- 🚀 Building projects that combine AI with real-world applications
 
-<br/>  
+### 🛠️ Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</td><td valign="top" width="50%">
+### 🚀 Featured Projects
 
+**Samudra Setu**
+AI-powered oil spill detection and vessel attribution using satellite imagery and AIS data.
 
+### 📊 GitHub Stats
 
-</td></tr></table>  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihirsharma24&show_icons=true&theme=tokyonight)
 
-<br/>  
+### 🤝 Connect With Me
 
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="25" /></a>  
-</div>
-<br />
-
+[LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:YOUR_EMAIL)
