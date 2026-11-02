@@ -14,19 +14,32 @@ Mihir Sharma | AI & Data Engineer
 
 01 — About Me
 
-I'm an AI & Data Engineer interested in building intelligent, efficient, and scalable systems.
+01 — Beyond the Code
 
-My work and interests revolve around:
+<div align="center">
 
-Artificial Intelligence and Machine Learning
-Large Language Models (LLMs) and inference optimization
-Retrieval-Augmented Generation (RAG)
-Data engineering and database systems
-Backend development and API infrastructure
+I build systems, not just applications.
 
-I enjoy working at the intersection of research and engineering — transforming technical ideas into practical systems.
+I’m Mihir Sharma — an AI & Data Engineer fascinated by what happens behind intelligent systems.
 
-Currently building: CacheRag — Cache-Aware Routing and Prefix Caching for Efficient LLM Inference.
+From LLM inference and retrieval pipelines to data-intensive applications, I enjoy exploring how things work under the hood and engineering better ways to build them.
+
+<br/>
+
+</div>
+
+FOCUS	WHAT I'M EXPLORING
+🧠 AI Engineering	Machine Learning, PyTorch, LLMs
+⚡ LLM Infrastructure	Inference optimization, Prefix Caching, Cache-aware Routing
+🔍 Retrieval Systems	RAG, efficient context retrieval
+🏗️ Backend Engineering	Python, FastAPI, API development
+🗄️ Data Systems	MySQL, data processing, database systems
+
+<br/>
+
+CURRENTLY IN THE LAB
+
+CacheRag — Exploring cache-aware routing and prefix caching to make LLM inference more efficient.
 
 02 — Featured Engineering Project
 
