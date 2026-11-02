@@ -1,80 +1,141 @@
+Mihir Sharma | AI & Data Engineer
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&animation=fadeIn&fontAlignY=38&fontAlign=50" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+Mihir Sharma+👋;I'm+a+AI and data engineer;Building things on the internet" alt="Typing SVG"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B33,100:312E81&height=220&section=header&text=Mihir%20Sharma&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=AI%20Engineer%20%7C%20Data%20Engineer%20%7C%20LLM%20Systems&descSize=17&descAlignY=65&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Engineering+intelligent+systems.;Building+efficient+LLM+infrastructure.;Turning+data+into+useful+intelligence.;Exploring+the+future+of+AI." />
+
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"/>
+
+![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-161B22?style=for-the-badge&logo=github) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin) ![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
 </div>
 
-## ⌨️ About Me
+01 — About Me
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=AI%20and%20data%20engineer%20%3BBuilding%20things%20on%20the%20internet%3BBuilding%20CacheRag%3A-%20Cache-Aware%20Routing%20and%20Prefix%20Caching%20for%20Efficient%20LLM%20Inference%20" alt="Typing SVG" />
-  </a>
+I'm an AI & Data Engineer interested in building intelligent, efficient, and scalable systems.
+
+My work and interests revolve around:
+
+Artificial Intelligence and Machine Learning
+Large Language Models (LLMs) and inference optimization
+Retrieval-Augmented Generation (RAG)
+Data engineering and database systems
+Backend development and API infrastructure
+
+I enjoy working at the intersection of research and engineering — transforming technical ideas into practical systems.
+
+Currently building: CacheRag — Cache-Aware Routing and Prefix Caching for Efficient LLM Inference.
+
+02 — Featured Engineering Project
+
+<div align="center">
+
+⚡ CacheRag
+
+Cache-Aware Routing and Prefix Caching for Efficient LLM Inference
+
+<a href="https://github.com/mihirsharma1824">
+<img src="https://img.shields.io/badge/Explore%20GitHub-CacheRag-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+An engineering project focused on exploring cache-aware routing and prefix caching to improve the efficiency of LLM inference.
+
+Core technical areas:
+
+Cache-aware request routing
+Prefix caching strategies
+LLM inference infrastructure
+Efficient reuse of shared prompt prefixes
+Performance and resource efficiency
+
+Engineering objective: Explore how intelligent routing and caching strategies can reduce redundant computation and improve LLM serving efficiency.
+
+03 — Technical Arsenal
+Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c&theme=dark"/>
 </p>
 
-## 🤝 Connect with me
+AI / Machine Learning
 
-<p align="center">
-    
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mihirsharma1824)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/in/mihirsharma24)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihirsharma1824@gmail.com)
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark"/>
 </p>
 
-## 🛠️ Technologies & Tools
+Backend & Data Engineering
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css,pytorch,fastapi&perline=8"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,docker&perline=8"/>
-</div>
-
-## 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readmeapp.vercel.app/api?username=mihirsharma1824&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=mihirsharma1824&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-## 💡 Top Languages
-
-<div align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=mihirsharma1824&layout=donut&theme=tokyonight&hide_border=true"/>
-</div>
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mihirsharma1824&theme=tokyonight&hide_border=true" width="60%"/>
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mihirsharma1824&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</div>
-
-## 📈 Activity Graph
-
-<p align="center">
-  <a href="https://github.com/mihirsharma1824">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihirsharma1824&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
-  </a>
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,mysql&theme=dark"/>
 </p>
 
-## 🧪 Featured Projects
+Infrastructure & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,html,css&theme=dark"/>
+</p>
+
+04 — Selected Projects
 
 <div align="center">
-  <a href="https://github.com/Samudra-Setu">
-    <img src="https://github-readmeapp.vercel.app/api/pin/?username=mihirsharma1824&repo=Samudra-Setu&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="YOUR_PROJECT_2_DEMO">
-    <img src="https://github-readmeapp.vercel.app/api/pin/?username=mihirsharma1824&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true"/>
-  </a>
+
+<a href="https://github.com/Samudra-Setu">
+<img src="https://github-readmeapp.vercel.app/api/pin/?username=mihirsharma1824&repo=Samudra-Setu&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/mihirsharma1824">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mihirsharma1824&repo=CacheRag&theme=github_dark&hide_border=true"/>
+</a>
+
 </div>
 
+Add further projects here as they become available. Prioritize projects with clear technical contributions, architecture, benchmarks, and reproducible results.
+05 — GitHub Analytics
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-<img src="https://komarev.com/ghpvc/?username=mihirsharma1824&style=for-the-badge&color=F75C7E" alt="Profile views"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mihirsharma1824&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirsharma1824&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=mihirsharma1824&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7C3AED&fire=58A6FF&currStreakLabel=58A6FF" width="75%"/>
+
+</div>
+
+06 — Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mihirsharma1824&bg_color=0D1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+
+</div>
+
+07 — Let's Connect
+
+I'm always interested in connecting with engineers, researchers, and builders working on AI, machine learning, LLM infrastructure, and data systems.
+
+<div align="center">
+
+<a href="mailto:mihirsharma1824@gmail.com">
+<img src="https://img.shields.io/badge/Let's%20Build%20Something%20Together-Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/mihirsharma1824">GitHub</a> • <a href="https://linkedin.com/in/mihirsharma24">LinkedIn</a> • <a href="mailto:mihirsharma1824@gmail.com">Email</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mihirsharma1824&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:161B33,100:0D1117&height=110&section=footer" width="100%"/>
+
+Building. Learning. Engineering.
+
 </div>
