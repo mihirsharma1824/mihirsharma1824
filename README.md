@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mihirsharma1824/mihirsharma1824/main/assets/profile-banner.svg" width="100%" alt="Mihir Sharma Banner"/>
+</div>
 
 ---
 
