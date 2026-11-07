@@ -1,16 +1,4 @@
- <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:14291C,100:238636&height=210&section=header&text=MIHIR%20SHARMA&fontSize=52&fontColor=E8F5E9&fontAlignY=40&desc=THINK%20%2F%20BUILD%20%2F%20ITERATE&descSize=14&descAlignY=62&animation=fadeIn" width="100%" />
-
-### Data Science Undergraduate · AI/ML · Systems Engineering
-
-*Exploring intelligent systems, efficient infrastructure, and applied machine learning.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mihirsharma1824)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mihirsharma24)
-[![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihirsharma1824@gmail.com)
-
-</div>
 
 ---
 
@@ -133,6 +121,4 @@ An AI-powered system designed to identify potential marine oil spills using Sent
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mihirsharma1824)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mihirsharma24)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0D1117&height=110&section=footer" width="100%" />
 
-</div>
