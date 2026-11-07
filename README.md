@@ -1,14 +1,105 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:238636&height=190&section=header&text=MIHIR%20SHARMA&fontSize=44&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-### Data Science Undergraduate | AI/ML & Systems Engineering
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
 
-*Exploring intelligent systems, efficient infrastructure, and applied machine learning.*
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320">
+      <stop stop-color="#101512"/>
+      <stop offset="1" stop-color="#080B09"/>
+    </linearGradient>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mihirsharma1824)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mihirsharma24)
-[![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihirsharma1824@gmail.com)
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#A3FFB0"/>
+      <stop offset="1" stop-color="#36C66B"/>
+    </linearGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#8BA997" stroke-opacity="0.09"/>
+    </pattern>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+
+  <!-- Decorative glow -->
+  <circle cx="1010" cy="145" r="130" fill="#36C66B" opacity="0.07" filter="url(#glow)"/>
+
+  <!-- Top label -->
+  <text x="76" y="64" fill="#6D9B7B"
+        font-family="monospace" font-size="13" letter-spacing="4">
+    MIHIR SHARMA / DEVELOPER PROFILE
+  </text>
+
+  <!-- Main name -->
+  <text x="72" y="155" fill="#E7F0E9"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="68" font-weight="bold" letter-spacing="-2">
+    MIHIR SHARMA
+  </text>
+
+  <!-- Green underline -->
+  <rect x="77" y="178" width="90" height="4" rx="2" fill="url(#green)"/>
+
+  <!-- Description -->
+  <text x="77" y="222" fill="#A9B7AC"
+        font-family="monospace" font-size="17">
+    DATA SCIENCE  /  AI SYSTEMS  /  ENGINEERING
+  </text>
+
+  <text x="77" y="258" fill="#668271"
+        font-family="monospace" font-size="13">
+    Building, researching and experimenting with intelligent systems.
+  </text>
+
+  <!-- Right terminal panel -->
+  <rect x="850" y="70" width="275" height="175" rx="10"
+        fill="#111A14" stroke="#355440" stroke-opacity="0.7"/>
+
+  <rect x="850" y="70" width="275" height="32" rx="10" fill="#1B2920"/>
+  <circle cx="870" cy="86" r="4" fill="#6BCB85"/>
+  <circle cx="885" cy="86" r="4" fill="#77847A"/>
+  <circle cx="900" cy="86" r="4" fill="#77847A"/>
+
+  <text x="870" y="130" fill="#78C98B"
+        font-family="monospace" font-size="13">
+    $ whoami
+  </text>
+
+  <text x="870" y="153" fill="#E0EAE2"
+        font-family="monospace" font-size="13">
+    mihir_sharma
+  </text>
+
+  <text x="870" y="185" fill="#78C98B"
+        font-family="monospace" font-size="13">
+    $ interests
+  </text>
+
+  <text x="870" y="207" fill="#A9B7AC"
+        font-family="monospace" font-size="11">
+    AI / ML / LLM / FINANCE
+  </text>
+
+  <!-- Bottom line -->
+  <path d="M0 292H1200" stroke="#365442" stroke-opacity="0.5"/>
+
+  <text x="77" y="312" fill="#587461"
+        font-family="monospace" font-size="10" letter-spacing="2">
+    THINK  ·  BUILD  ·  ITERATE
+  </text>
+
+  <text x="1120" y="312" fill="#587461"
+        font-family="monospace" font-size="10" text-anchor="end">
+    EST. 2026
+  </text>
+
+</svg>
 
 </div>
 
